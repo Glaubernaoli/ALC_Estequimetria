@@ -4,9 +4,9 @@
 
 </div>
 
-<h1 align="center"> Apliação de Sistemas Lineares na Estequiometria: Desenvolvimento de uma Ferramenta Computacional </h1>
+<h1 align="center"> Ampliação de Sistemas Lineares na Estequiometria: Desenvolvimento de uma Ferramenta Computacional </h1>
 
-### Algebra Linear Computacional, Turma 2024
+### Álgebra Linear Computacional, Turma 2024
 ### Colaboradores: Gabriel Viégas Ribeiro, Glauber Nascimento de Oliveira, Maria Emily Gomes e Lorena Ribeiro  
 ### Aprendizado de Máquina -  Prof. Vinicius Francisco Wasques
 
@@ -17,14 +17,14 @@
 <h2 align="left"> 💡 Descrição do projeto </h2>
 
 <div align="justify">
-Reações químicas são de grande relevância para o estudo da química e indústria, envolvendo o balanceamento das equações para garantir a conservação dos reagentes e produtos. O balanceamento pode ocorrer por método de tentativa e erro ou por abordagens computacionais, na transformação de equações químicas em sistemas lineares. O método Gauss-Seidel é promissor para a estratégia computacional, pela estrutura das matrizes esparsas resultantes. Esse método iterativo utiliza a atualização dos valores calculados, acelerando a convergência, especialmente em sistemas grandes e esparsos. Também, existe a possibilidade de paralelização, com o objetivo do aumento da eficiência dos cálculos. No entanto, esse método não resolve matrizes 2x2, por isso, o uso de eliminação gaussiana foi necessário. Assim, esse trabalho da disciplina de Álgebra Linear Computacional se baseia em métodos de Gauss-Seidel, para o cálculo dos índices estequiométricos de reações químicas.
+Reações químicas são de grande relevância para o estudo da química e indústria, envolvendo o balanceamento das equações para garantir a conservação dos reagentes e produtos. O balanceamento pode ocorrer por método de tentativa e erro ou por abordagens computacionais, na transformação de equações químicas em sistemas lineares. O método Gauss-Seidel é promissor para a estratégia computacional, pela estrutura das matrizes esparsas resultantes. Esse método iterativo utiliza a atualização dos valores calculados, acelerando a convergência, especialmente em sistemas grandes e esparsos. Também, existe a possibilidade de paralelização, com o objetivo do aumento da eficiência dos cálculos. No entanto, esse método não resolve bem matrizes esparsas 2x2, por isso, o uso de eliminação gaussiana foi necessário. Assim, esse trabalho da disciplina de Álgebra Linear Computacional se baseia em métodos de Gauss-Seidel, para o cálculo dos índices estequiométricos de reações químicas.
 </div>
 
 <h2 align="left"> 🧰 Ferramentas matemáticas usadas </h2>
 
 <div align="justify">
 
-`Gauss-Sidel`: Método iterativo de resolução de sistemas lineares. Ele atualiza progressivamente as variáveis do sistema, usando os valores mais recentes calculados, o que acelera a convergência em matrizes esparsas.
+`Gauss-Seidel`: Método iterativo de resolução de sistemas lineares. Ele atualiza progressivamente as variáveis do sistema, usando os valores mais recentes calculados, o que acelera a convergência em matrizes esparsas.
 
 `Eliminação Gaussiana`: Método direto para resolução de sistemas lineares. transformando a matriz em uma forma triangular superior por operações elementares. Isso permite determinar as soluções do sistema por substituição regressiva.
 
