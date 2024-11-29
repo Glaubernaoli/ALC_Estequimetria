@@ -24,9 +24,9 @@ Reações químicas são de grande relevância para o estudo da química e indú
 
 <div align="justify">
 
-`Gauss-Sidel`: Método iterativo de resolução de sistemas lineares
+`Gauss-Sidel`: Método iterativo de resolução de sistemas lineares. Ele atualiza progressivamente as variáveis do sistema, usando os valores mais recentes calculados, o que acelera a convergência em matrizes esparsas.
 
-`Eliminação Gaussiana`: 
+`Eliminação Gaussiana`: Método direto para resolução de sistemas lineares. transformando a matriz em uma forma triangular superior por operações elementares. Isso permite determinar as soluções do sistema por substituição regressiva.
 
 </div>
 
@@ -34,7 +34,7 @@ Reações químicas são de grande relevância para o estudo da química e indú
 
 <div align="justify">
 
-`mnome do notebook`: escrever oque é o arquivo
+`nome do notebook`: escrever oque é o arquivo
 
 </div>
 
