@@ -30,6 +30,15 @@ Reações químicas são de grande relevância para o estudo da química e indú
 
 </div>
 
+<h2 align="left"> ✖️ Limitações </h2>
+
+<div align="justify">
+
+`tal coisa`: escrever a limitação
+
+</div>
+
+
 <h2 align="left"> 📔 Notebooks e arquivos do projeto </h2>
 
 <div align="justify">
