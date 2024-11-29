@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center"> Ampliação de Sistemas Lineares na Estequiometria: Desenvolvimento de uma Ferramenta Computacional </h1>
+<h1 align="center"> Aplicação de Sistemas Lineares na Estequiometria: Desenvolvimento de uma Ferramenta Computacional </h1>
 
 ### Álgebra Linear Computacional, Turma 2024
 ### Colaboradores: Gabriel Viégas Ribeiro, Glauber Nascimento de Oliveira, Maria Emily Gomes e Lorena Ribeiro  
