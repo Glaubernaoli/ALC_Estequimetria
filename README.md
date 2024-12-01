@@ -34,16 +34,15 @@ Reações químicas são de grande relevância para o estudo da química e indú
 
 <div align="justify">
 
-`tal coisa`: escrever a limitação
+`íons`: A calculadora estequiométrica não esta preparada para receber íons
 
 </div>
-
 
 <h2 align="left"> 📔 Notebooks e arquivos do projeto </h2>
 
 <div align="justify">
 
-`nome do notebook`: escrever oque é o arquivo
+`Estequiometria - ALC 1`: Notebook de pyhton contendo todas as informações necessárias para a calculadora estequiométrica
 
 </div>
 
