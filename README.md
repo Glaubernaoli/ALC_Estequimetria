@@ -74,12 +74,22 @@ Depois de baixar o projeto você deve abrí-lo no Jupyter Notebook/VS code
 <h2 align="left"> 📖 Referências </h2>
 
 <div align="justify">
+ 
+1. Borba, E., 2020. Balanceamento de reações químicas por sistemas lineares: considerações teóricas e
+práticas. Disponível em: https://shorturl.at/OGXOG. Acesso em: 30 nov. 2024.
+ 
+2. Pescador, A. and Roberto, C., 2024. Aplicação de Álgebra linear na engenharia. Disponível em: http://
+www.decom.ufop.br/moreira/site_media/uploads/arquivos/art2127.pdf. Acesso em:
+1 dez. 2024.
 
-1.  Nguyen, B. et al. Genomic characterization of metastatic patterns from prospective clinical sequencing of 25,000 patients. Cell 185, 563-575.e11 (2022).
-2.  Daniel Cassar, Material de Aula, disciplina: Aprendizado de Máquina. 2024 
-3.  Optuna - A hyperparameter optimization framework. Disponível em: https://optuna.org/
-4.  Yemulwary, S. Feature Selection Techniques. Disponível em: https://medium.com/analytics-vidhya/feature-selection-techniques-2614b3b7efcd
+3. Universidade Federal do Rio Grande do Sul, 2024a. Repositório de ensino aberto de matemática aplicada:
+Eliminação gaussiana. Disponível em: https://www.ufrgs.br/reamat/CalculoNumerico/
+livro-sci/sdsl-eliminacao_gaussiana.html. Acesso em: 30 nov. 2024.
 
+4. Universidade Federal do Rio Grande do Sul, 2024b. Repositório de ensino aberto de matemática aplicada:
+Métodos iterativos para sistemas lineares. Disponível em: https://www.ufrgs.br/reamat/
+CalculoNumerico/livro-oct/sdsl-metodos_iterativos_para_sistemas_lineares.
+html. Acesso em: 30 nov. 2024.
 </div>
 
 <h2 align="center"> 💻  Autores </h2>
