@@ -93,6 +93,13 @@ CalculoNumerico/livro-oct/sdsl-metodos_iterativos_para_sistemas_lineares.
 html. Acesso em: 30 nov. 2024.
 </div>
 
+5. “Python RegEx”. Acesso em 16 de novembro de 2024. https://www.w3schools.com/python/python_regex.asp.
+
+6. Python documentation. “Built-in Types”. Acesso em 15 de novembro de 2024. https://docs.python.org/3/library/stdtypes.html.
+
+7. Python documentation. “5. Data Structures”. Acesso em 15 de novembro de 2024. https://docs.python.org/3/tutorial/datastructures.html.
+
+   
 <h2 align="center"> 💻  Autores </h2>
 
 <div align="center">
