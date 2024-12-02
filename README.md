@@ -30,7 +30,7 @@ Reações químicas são de grande relevância para o estudo da química e indú
 
 </div>
 
-<h2 align="left"> ✖️ Limitações </h2>
+<h2 align="left"> ✖️ Restrições </h2>
 
 <div align="justify">
 
