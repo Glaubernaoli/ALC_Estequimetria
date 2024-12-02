@@ -36,6 +36,8 @@ Reações químicas são de grande relevância para o estudo da química e indú
 
 `íons`: A calculadora estequiométrica não esta preparada para receber íons
 
+`Catalisadores`: A calculadora estequiométrica não esta preparada para receber reações que contenham catalisadores
+
 </div>
 
 <h2 align="left"> 📔 Notebooks e arquivos do projeto </h2>
