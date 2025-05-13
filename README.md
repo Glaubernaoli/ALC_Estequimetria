@@ -44,7 +44,7 @@ Reações químicas são de grande relevância para o estudo da química e indú
 
 <div align="justify">
 
-`Estequiometria - ALC 1`: Notebook de pyhton contendo todas as informações necessárias para a calculadora estequiométrica
+`Estequiometria - ALC 1`: Notebook de pyhton contendo todas as informações necessárias para a calculadora estequiométrica.
 
 </div>
 
